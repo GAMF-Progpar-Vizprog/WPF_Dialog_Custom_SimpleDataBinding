@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace CustomDialogBox
+namespace WPF_Dialog_Custom_SimpleDataBinding
 {
 	/// <summary>
 	/// Interaction logic for App.xaml

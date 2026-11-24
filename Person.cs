@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CustomDialogBox
+namespace WPF_Dialog_Custom_SimpleDataBinding
 {
 	public class Person
 	{

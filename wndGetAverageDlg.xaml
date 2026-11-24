@@ -1,9 +1,9 @@
-﻿<Window x:Class="CustomDialogBox.wndGetAverageDlg"
+﻿<Window x:Class="WPF_Dialog_Custom_SimpleDataBinding.wndGetAverageDlg"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:CustomDialogBox"
+        xmlns:local="clr-namespace:WPF_Dialog_Custom_SimpleDataBinding"
         mc:Ignorable="d"
         Title="Get average" Height="186" Width="342">
 	<Grid x:Name="gr" DataContext="{Binding}">
